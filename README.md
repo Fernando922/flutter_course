@@ -12,7 +12,7 @@
 ## :rocket: Project
 
 :globe_with_meridians: 
-Developed projects to study Flutter!!
+Developed projects to study Flutter!! https://www.udemy.com/course/curso-completo-flutter-app-android-ios/
 
 ## Preview
 
